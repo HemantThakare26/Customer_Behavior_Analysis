@@ -48,6 +48,9 @@ This project provides actionable insights to:
 - Enhance customer engagement  
 - Optimize marketing strategies  
 - Strengthen product offerings  
-- Drive long-term loyalty and revenue growth  
+- Drive long-term loyalty and revenue growth
+
+- <img width="1317" height="746" alt="Customer Behavior Dashboard" src="https://github.com/user-attachments/assets/ed4f1a86-a423-40fd-92b8-9be64c77aef0" />
+
 
 
