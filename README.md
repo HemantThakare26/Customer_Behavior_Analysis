@@ -50,6 +50,7 @@ This project provides actionable insights to:
 - Strengthen product offerings  
 - Drive long-term loyalty and revenue growth
 
+# Customer Behavior Analysis Dashboard
 - <img width="1317" height="746" alt="Customer Behavior Dashboard" src="https://github.com/user-attachments/assets/ed4f1a86-a423-40fd-92b8-9be64c77aef0" />
 
 
